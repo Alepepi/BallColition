@@ -1,0 +1,17 @@
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\bin\Debug\net6.0-windows\ColisionSimple.exe
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\bin\Debug\net6.0-windows\ColisionSimple.deps.json
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\bin\Debug\net6.0-windows\ColisionSimple.runtimeconfig.json
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\bin\Debug\net6.0-windows\ColisionSimple.dll
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\bin\Debug\net6.0-windows\ColisionSimple.pdb
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.csproj.AssemblyReference.cache
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.Form1.resources
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.csproj.GenerateResource.cache
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.AssemblyInfoInputs.cache
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.AssemblyInfo.cs
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.csproj.CoreCompileInputs.cache
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.dll
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\refint\ColisionSimple.dll
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.pdb
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ColisionSimple.genruntimeconfig.cache
+C:\Users\aleol\source\repos\ColisionSimple\ColisionSimple\obj\Debug\net6.0-windows\ref\ColisionSimple.dll
